@@ -12,8 +12,15 @@ Mi objetivo principal es crear un catálogo de libros que pueda interactuar con 
 Funcionalidades del proyecto:
 Dentro del proyecto, he implementado las siguientes funcionalidades:
 
-Buscar libro por título: Ahora puedes buscar tus libros favoritos por su título.
-Listar libros registrados: Puedes ver una lista de todos los libros que hemos registrado.
-Listar autores registrados: Descubre quiénes son los talentosos autores detrás de estos libros.
-Listar autores vivos en un determinado año: ¿Quiénes estaban escribiendo en un año específico? ¡Lo descubriremos juntos!
-Listar libros por idioma: Explora libros en diferentes idiomas.
+Buscar libro por título: 
+Ahora puedes buscar tus libros favoritos por su título.
+
+Listar libros registrados:
+ Puedes ver una lista de todos los libros que hemos registrado.
+ 
+Listar autores registrados:
+ Descubre quiénes son los talentosos autores detrás de estos libros.
+
+Listar autores vivos en un determinado año: 
+¿Quiénes estaban escribiendo en un año específico? ¡Lo descubriremos juntos!
+Listar libros por idioma: Explora libros en diferentes idiomas..
